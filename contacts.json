@@ -1,0 +1,71 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "firstName": "jones",
+      "lastName": "christi",
+      "email": "jones.c@gmail.com",
+      "homeNo": "+1 890 765 3210",
+      "workNo": "",
+      "birthDate": "2001-16-9",
+      "company": "",
+      "jobTitle": "",
+      "notes": "nth contact",
+      "contactAddedOn": "2021-05-23T12:19:11.235Z",
+      "id": 2
+    },
+    {
+      "firstName": "jones",
+      "lastName": "christi",
+      "email": "jones.c@gmail.com",
+      "homeNo": "+1 890 765 3210",
+      "workNo": "",
+      "birthDate": "2001-16-9",
+      "company": "",
+      "jobTitle": "",
+      "notes": "nth contact",
+      "contactAddedOn": "2021-05-23T12:19:11.235Z",
+      "id": 3
+    },
+    {
+      "firstName": "jones",
+      "lastName": "christi",
+      "email": "jones.c@gmail.com",
+      "homeNo": "+1 890 765 3210",
+      "workNo": "",
+      "birthDate": "2001-16-9",
+      "company": "",
+      "jobTitle": "",
+      "notes": "nth contact",
+      "contactAddedOn": "2021-05-23T12:19:11.235Z",
+      "id": 4
+    },
+    {
+      "firstName": "jones",
+      "lastName": "christi",
+      "email": "jones.c@gmail.com",
+      "homeNo": "+1 890 765 3210",
+      "workNo": "",
+      "birthDate": "2001-16-9",
+      "company": "",
+      "jobTitle": "",
+      "notes": "nth contact",
+      "contactAddedOn": "2021-05-23T12:19:11.235Z",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
